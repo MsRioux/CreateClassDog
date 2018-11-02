@@ -8,6 +8,8 @@ Create a class called Dog
   4. getter for name and age
   5. setter for name and age
   6. Brain method to change weight from pounds to kilograms.
+  7. Use "this" notation wherever applicable.
+  8. Create a static variable that counts how many dogs have been created.
   
  Create a class DogDriver
   1. Create two objects
@@ -17,3 +19,4 @@ Create a class called Dog
   3. Change the default dog's name to Fido and age to 3 years.
   4. Output ONLY Fido's name and age.
   5. Show what Fang's weight is in Kilograms.
+  6. Output the number of dogs (Don't forget an appropriate lable.
