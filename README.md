@@ -1,4 +1,4 @@
-# CreateClassDog
+# Create Class Dog
 Open a new project called Dog
 Create a class called Dog
   Use the comment lines as demonstrated in class Song 
