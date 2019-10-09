@@ -19,4 +19,4 @@ Create a class called Dog
   3. Change the default dog's name to Fido and age to 3 years.
   4. Output ONLY Fido's name and age.
   5. Show what Fang's weight is in Kilograms.
-  6. Output the number of dogs (Don't forget an appropriate lable.
+  6. Output the number of dogs (Don't forget an appropriate label).
